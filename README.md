@@ -32,6 +32,8 @@ This project bridges the gap between complex orbital math and physical hardware.
 3. Install the required Python graphics libraries:
 ```bash
 pip install pyserial vpython
-Run the visualizer script:
+
+4. Run the visualizer script:
+
 python satellite.py
 
